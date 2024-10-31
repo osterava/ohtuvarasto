@@ -1,2 +1,3 @@
 # ohtuvarasto
-TEKA3003
+
+![GHA workflow badge](https://github.com/osterava/ohtuvarasto/workflows/CI/badge.svg)
